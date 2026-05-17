@@ -59,11 +59,3 @@ GBPUSD H4 チャート上で SMA(20)/SMA(50)/SMA(200) のパーフェクトオ�
 3. `SMA_PerfectOrder_BuySignal.dll` を Forex Tester 6 のインストール場所内の `Indicators` フォルダにコピー
    （標準インストール例：`C:\ForexTester6\Indicators\`）
 4. Forex Tester 6 を再起動 → GBPUSD H4 チャート → 右クリック → 「インジケータを追加」→「カスタム」→「PerfectOrder BUY (SMA 20/50/200)」を選択
-
-## ソースから自分でビルドしたい場合
-
-[BUILD.md](BUILD.md) を参照してください。
-
-## ライセンス
-
-本リポジトリの [LICENSE](../../LICENSE)（MIT）に準じます。
