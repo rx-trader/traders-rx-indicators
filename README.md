@@ -10,6 +10,7 @@
 |---|---|---|---|---|
 | [S01](indicators/S01_gbpusd_h4_perfect_order/) | GBPUSD / H4 | SMA 20/50/200 パーフェクトオーダー | [Release v1.0.0](https://github.com/rx-trader/traders-rx-indicators/releases/tag/s01-v1.0.0) | [GBPUSD 4 時間足 SMA パーフェクトオーダー検証](https://traders-rx.com/gbpusd-h4-perfect-order/) |
 | [S02](indicators/S02_turtle_donchian_breakout/) | USDJPY / D1 | タートルズ流 Donchian-20 ブレイク | [Release v1.0.0](https://github.com/rx-trader/traders-rx-indicators/releases/tag/s02-v1.0.0) | [タートルズ流ドンチャンブレイク検証](https://traders-rx.com/turtle-donchian-breakout/) |
+| [S03](indicators/S03_london_n20_inside_bar/) | USDJPY / H1 | ロンドン N20 高値 × インサイドバー | [Release v1.0.0](https://github.com/rx-trader/traders-rx-indicators/releases/tag/s03-v1.0.0) | [USDJPY 1 時間足 ロンドン N20 高値 × インサイドバー検証](https://traders-rx.com/london-n20-inside-bar/) |
 
 ## ダウンロード前にご確認ください
 
