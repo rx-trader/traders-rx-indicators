@@ -1,0 +1,7 @@
+LIBRARY SMA_PerfectOrder_BuySignal
+
+EXPORTS
+    Init
+    Calculate
+    IntrfProcsRec DATA
+    ReplaceStr=_Z10ReplaceStrRPcS_
