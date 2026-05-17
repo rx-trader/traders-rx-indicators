@@ -1,6 +1,6 @@
 # Traders RX Indicators
 
-このリポジトリは、トレーダーの処方箋（https://traders-rx.com/）で配布している Forex Tester 用インジケータの配布ページです。
+このリポジトリは、トレーダーの処方箋（ https://traders-rx.com/ ）で配布している Forex Tester 用インジケータの配布ページです。
 
 ## 配布中のインジケータ
 
