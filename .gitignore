@@ -1,0 +1,15 @@
+# Build artifacts
+*.dll
+*.o
+*.obj
+*.exp
+*.lib
+*.pdb
+
+# Local environment
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
