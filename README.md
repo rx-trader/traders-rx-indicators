@@ -9,6 +9,7 @@
 | ID | 通貨ペア / 時間足 | 戦略 | 配布物 | 元記事 |
 |---|---|---|---|---|
 | [S01](indicators/S01_gbpusd_h4_perfect_order/) | GBPUSD / H4 | SMA 20/50/200 パーフェクトオーダー | [Release v1.0.0](https://github.com/rx-trader/traders-rx-indicators/releases/tag/s01-v1.0.0) | [GBPUSD 4 時間足 SMA パーフェクトオーダー検証](https://traders-rx.com/gbpusd-h4-perfect-order/) |
+| [S02](indicators/S02_turtle_donchian_breakout/) | USDJPY / D1 | タートルズ流 Donchian-20 ブレイク | [Release v1.0.0](https://github.com/rx-trader/traders-rx-indicators/releases/tag/s02-v1.0.0) | [タートルズ流ドンチャンブレイク検証](https://traders-rx.com/turtle-donchian-breakout/) |
 
 ## ダウンロード前にご確認ください
 
