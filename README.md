@@ -12,6 +12,7 @@
 | [S02](indicators/S02_turtle_donchian_breakout/) | USDJPY / D1 | タートルズ流 Donchian-20 ブレイク | [Release v1.0.0](https://github.com/rx-trader/traders-rx-indicators/releases/tag/s02-v1.0.0) | [タートルズ流ドンチャンブレイク検証](https://traders-rx.com/turtle-donchian-breakout/) |
 | [S03](indicators/S03_london_n20_inside_bar/) | USDJPY / H1 | ロンドン N20 高値 × インサイドバー | [Release v1.0.0](https://github.com/rx-trader/traders-rx-indicators/releases/tag/s03-v1.0.0) | [USDJPY 1 時間足 ロンドン N20 高値 × インサイドバー検証](https://traders-rx.com/london-n20-inside-bar/) |
 | [S04](indicators/S04_london_dayhigh_doji/) | USDJPY / H1 | ロンドン高値ブレイク × 同時線 | [Release v1.0.0](https://github.com/rx-trader/traders-rx-indicators/releases/tag/s04-v1.0.0) | [USDJPY 1 時間足 ロンドン高値ブレイク × 同時線検証](https://traders-rx.com/london-dayhigh-doji/) |
+| [S05](indicators/S05_usdjpy_h4_dow_swing_break/) | USDJPY / H4 | ダウ理論スイングブレイク × 日足 SMA50 | [Release v1.0.0](https://github.com/rx-trader/traders-rx-indicators/releases/tag/s05-v1.0.0) | [USDJPY 4 時間足 ダウ理論スイングブレイク検証（改良案付き）](https://traders-rx.com/usdjpy-h4-dow-swing-break/) |
 
 ## ダウンロード前にご確認ください
 
