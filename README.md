@@ -14,6 +14,7 @@
 | [S04](indicators/S04_london_dayhigh_doji/) | USDJPY / H1 | ロンドン高値ブレイク × 同時線 | [Release v1.0.0](https://github.com/rx-trader/traders-rx-indicators/releases/tag/s04-v1.0.0) | [USDJPY 1 時間足 ロンドン高値ブレイク × 同時線検証](https://traders-rx.com/london-dayhigh-doji/) |
 | [S05](indicators/S05_usdjpy_h4_dow_swing_break/) | USDJPY / H4 | ダウ理論スイングブレイク × 日足 SMA50 | [Release v1.0.0](https://github.com/rx-trader/traders-rx-indicators/releases/tag/s05-v1.0.0) | [USDJPY 4 時間足 ダウ理論スイングブレイク検証（改良案付き）](https://traders-rx.com/usdjpy-h4-dow-swing-break/) |
 | [S06](indicators/S06_eurjpy_h4_ma_circulation/) | EURJPY / H4 | MA 大循環 ステージ 2/5 × 日足 SMA50 | [Release v1.1.0](https://github.com/rx-trader/traders-rx-indicators/releases/tag/s06-v1.1.0) | [EURJPY 4 時間足 MA 大循環ステージ 2/5 検証（改良案付き）](https://traders-rx.com/eurjpy-h4-ma-circulation/) |
+| [S07](indicators/S07_gbpjpy_d1_donchian_40/) | GBPJPY / D1 | Donchian-40 ブレイク | [Release v1.0.0](https://github.com/rx-trader/traders-rx-indicators/releases/tag/s07-v1.0.0) | [GBPJPY 日足 Donchian-40 ブレイク検証](https://traders-rx.com/gbpjpy-d1-donchian-40/) |
 
 ## ダウンロード前にご確認ください
 
