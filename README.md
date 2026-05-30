@@ -17,6 +17,7 @@
 | [S07](indicators/S07_gbpjpy_d1_donchian_40/) | GBPJPY / D1 | Donchian-40 ブレイク | [Release v1.0.0](https://github.com/rx-trader/traders-rx-indicators/releases/tag/s07-v1.0.0) | [GBPJPY 日足 Donchian-40 ブレイク検証](https://traders-rx.com/gbpjpy-d1-donchian-40/) |
 | [S08](indicators/S08_usdjpy_h4_perfect_order/) | USDJPY / H4 | SMA 20/50/200 パーフェクトオーダー | [Release v1.0.0](https://github.com/rx-trader/traders-rx-indicators/releases/tag/s08-v1.0.0) | [USDJPY 4 時間足 パーフェクトオーダー検証](https://traders-rx.com/usdjpy-h4-perfect-order/) |
 | [S09](indicators/S09_usdjpy_h1_london_open/) | USDJPY / H1 | アジアレンジ × ロンドンオープンブレイク | [Release v1.0.0](https://github.com/rx-trader/traders-rx-indicators/releases/tag/s09-v1.0.0) | [USDJPY 1 時間足 アジアレンジ × ロンドンオープン検証](https://traders-rx.com/usdjpy-h1-london-open/) |
+| [S10](indicators/S10_gbpusd_h1_ny_pullback/) | GBPUSD / H1 | NY 時間 当日高値圏 × EMA20 押し目 | [Release v1.0.0](https://github.com/rx-trader/traders-rx-indicators/releases/tag/s10-v1.0.0) | [GBPUSD 1 時間足 NY 当日高値 × EMA20 押し目検証](https://traders-rx.com/gbpusd-h1-ny-pullback/) |
 
 ## ダウンロード前にご確認ください
 
